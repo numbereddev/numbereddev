@@ -50,10 +50,9 @@ And yes, ik that calling CSS/HTML (& MySQL sometimes) is a hot topic, but I'd sa
 <br><br>
 <img height="48" alt="My Socials" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/023eb0e1-2ada-45cd-8cf3-21b7341d9ecd"><br>
 I have a bit of presence on very few social medias, including:
-- [YouTube](https://youtube.com/@yourlocalsip)
+- [YouTube](https://youtube.com/@numbereddev)
 - [Twitter](https://twitter.com/yourlocalsip)
-- [GitHub](https://github.com/FoxTale-Labs)
-- [Ko-Fi](https://ko-fi.com/yourlocalsip)
+- [GitHub](https://github.com/numbereddev)
 
 <!--<br><br>
 <img height="48" alt="My Ko-Fi" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/242d169e-4a2d-41e7-b03c-46f7c59fd998"><br>
