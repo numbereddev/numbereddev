@@ -1,7 +1,8 @@
-<img width="2490" alt="FoxTale Labs" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/48e15c36-8065-499a-839c-334ee50f0c20">
+<img width="1711" height="245" alt="image" src="https://github.com/user-attachments/assets/8f908db3-4da3-4acb-9200-dbfaef78ea23" />
 
-### Hello 👋,
-I'm FoxTale Labs, a *passionate developer* contributing to *Open Source projects*, *doing occassional freelancing*, *working on personal projects* and generally constantly learning and improving on my skills.
+
+### Hey There 👋,
+I am Numbered Dev, a passionate developer who ships projects and happens to be on [YouTube](https://youtube.com/@numbereddev).
 
 <br>
 <img height="48" alt="My Interests" src="https://github.com/FoxTale-Labs/FoxTale-Labs/assets/72300200/fd1ef8cd-eacb-4c73-88dd-8895e8cfabee"><br>
