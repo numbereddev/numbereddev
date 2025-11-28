@@ -2,6 +2,6 @@
 
 **Hey There 👋, I am Numbered Dev!** A developer who ships projects and happens to be on [YouTube](https://youtube.com/@numbereddev).  
 
-## [My own featured project](https://rebxd.com/)
+## My own featured project — [Rebxd](https://rebxd.com)
 
 [![image](https://github.com/user-attachments/assets/4b85f266-b164-48a9-ad70-5f0b2b6dca28)](https://rebxd.com/)
